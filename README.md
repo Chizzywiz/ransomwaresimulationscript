@@ -1,4 +1,4 @@
-# ransomwarem simulation script
+# ransomware simulation script
 CCreated a script that has similar effects of ransomware for use in tabletop security exercises and defense exercises 
 
 The BASH scripting language was used to create this script but it can be edited for use on Windows systems. The script encrypts the files on the specified directory using AES256 symmetric but it can always be decrypted with a password. 
